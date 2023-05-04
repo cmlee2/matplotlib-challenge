@@ -11,6 +11,7 @@ For this challenge, multiple graphs were created, including:
     - Scatter Plots
 
 Furthermore, multiple summary statistics were calculated, including:
+
     - Mean
     - Median
     - Variance
